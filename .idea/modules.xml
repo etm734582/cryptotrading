@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DZ/.idea/DZ.iml" filepath="$PROJECT_DIR$/../DZ/.idea/DZ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PIL/.idea/PIL.iml" filepath="$PROJECT_DIR$/../PIL/.idea/PIL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/distraction.iml" filepath="$PROJECT_DIR$/.idea/distraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dsBot/.idea/dsBot.iml" filepath="$PROJECT_DIR$/../dsBot/.idea/dsBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../reqsts/.idea/reqsts.iml" filepath="$PROJECT_DIR$/../reqsts/.idea/reqsts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../symbs counter WIP/.idea/symbs counter WIP.iml" filepath="$PROJECT_DIR$/../symbs counter WIP/.idea/symbs counter WIP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vk_bot anon/.idea/vk_bot anon.iml" filepath="$PROJECT_DIR$/../vk_bot anon/.idea/vk_bot anon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wikiparsertg/.idea/wikiparsertg.iml" filepath="$PROJECT_DIR$/../wikiparsertg/.idea/wikiparsertg.iml" />
+    </modules>
+  </component>
+</project>

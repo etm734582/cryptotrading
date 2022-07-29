@@ -1,0 +1,24 @@
+{
+   "users_amount": 1,
+   "users": {
+      "\u041a\u0432\u0430\u043a\u0448\u0430#5955": {
+         "money": {
+            "usd": 10000.0
+         },
+         "settings": {
+            "ingame": true,
+            "comissiondiff": 1,
+            "moneydiff": 2,
+            "comission": 0.001,
+            "comission_factor": 0.999
+         }
+      }
+   },
+   "bot_settings": {
+      "showing_settings": {
+         "comissiondiff": "\u0421\u043b\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u043f\u043e \u043a\u043e\u043c\u0438\u0441\u0441\u0438\u0438",
+         "moneydiff": "\u0421\u043b\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u043f\u043e \u0434\u0435\u043d\u044c\u0433\u0430\u043c",
+         "comission": "\u041a\u043e\u043c\u0438\u0441\u0441\u0438\u044f"
+      }
+   }
+}
